@@ -1,13 +1,13 @@
-body {background-color:#ECF2FF;
-color: #181823;}
+body {background-color:#DEFCF9;
+color: #4E6E81;}
 
 hr {border-style: dotted none none none;
-    border-color: #BFACE2;
-    border-width: 5px;
+    border-color: #0F6292;
+    border-width: 3px;
     width: 90%;}
 
 img {height: 150px;
 width: auto;}
 
-h1 { color: #3E54AC;}
-h3 { color: #655DBB;}
+h1 { color: #205E61;}
+h3 { color: #3F979B;}
